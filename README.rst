@@ -10,3 +10,5 @@ There are no dependencies other than the Python Standard Library.
 
 * Run the game: ``./bin/run``
 * Run unit tests: ``./bin/test``
+
+.. image:: docs/game_session_screenshot.png
